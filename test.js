@@ -1,1 +1,1 @@
-alert("hello, test");
+console.log("script at js file");
